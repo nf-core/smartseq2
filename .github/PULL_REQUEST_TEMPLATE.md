@@ -1,15 +1,19 @@
-Many thanks to contributing to nf-core/smartseq!
+# nf-core/smartseq2 pull request
 
-Please fill in the appropriate checklist below (delete whatever is not relevant). These are the most common things requested on pull requests (PRs).
+Many thanks for contributing to nf-core/smartseq2!
+
+Please fill in the appropriate checklist below (delete whatever is not relevant).
+These are the most common things requested on pull requests (PRs).
 
 ## PR checklist
- - [ ] This comment contains a description of changes (with reason)
- - [ ] If you've fixed a bug or added code that should be tested, add tests!
- - [ ] If necessary, also make a PR on the [nf-core/smartseq branch on the nf-core/test-datasets repo]( https://github.com/nf-core/test-datasets/pull/new/nf-core/smartseq)
- - [ ] Ensure the test suite passes (`nextflow run . -profile test,docker`).
- - [ ] Make sure your code lints (`nf-core lint .`).
- - [ ] Documentation in `docs` is updated
- - [ ] `CHANGELOG.md` is updated
- - [ ] `README.md` is updated
 
-**Learn more about contributing:** https://github.com/nf-core/smartseq/tree/master/.github/CONTRIBUTING.md
+- [ ] This comment contains a description of changes (with reason)
+- [ ] If you've fixed a bug or added code that should be tested, add tests!
+- [ ] If necessary, also make a PR on the [nf-core/smartseq2 branch on the nf-core/test-datasets repo](https://github.com/nf-core/test-datasets/pull/new/nf-core/smartseq2)
+- [ ] Ensure the test suite passes (`nextflow run . -profile test,docker`).
+- [ ] Make sure your code lints (`nf-core lint .`).
+- [ ] Documentation in `docs` is updated
+- [ ] `CHANGELOG.md` is updated
+- [ ] `README.md` is updated
+
+**Learn more about contributing:** [CONTRIBUTING.md](https://github.com/nf-core/smartseq2/tree/master/.github/CONTRIBUTING.md)
